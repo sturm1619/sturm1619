@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sturm1619
 - 👀 I’m interested in musique.
-- 🌱 I’m currently learning git & github
+- 🌱 I’m currently learning linux, zsh, nvim (#teamchad), lua, git, python.
 - 💞️ I’m looking to collaborate on nothing, leavemealone #vicecity
 - 📫 How to reach me: don't.
 - 😄 Pronouns: your majesty
